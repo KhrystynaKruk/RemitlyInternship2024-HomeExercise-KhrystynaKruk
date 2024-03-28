@@ -1,0 +1,24 @@
+{
+  "type": "module",
+  "name": "remitly-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KhrystynaKruk/RemitlyInternship2024-HomeExercise-KhrystynaKruk.git"
+  },
+  "author": "Khrystyna Kruk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KhrystynaKruk/RemitlyInternship2024-HomeExercise-KhrystynaKruk/issues"
+  },
+  "homepage": "https://github.com/KhrystynaKruk/RemitlyInternship2024-HomeExercise-KhrystynaKruk#readme",
+  "dependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.4.0"
+  }
+}
